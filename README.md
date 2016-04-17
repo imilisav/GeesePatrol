@@ -1,7 +1,7 @@
 # Geese Patrol
 --------------
 
-Note: I will have the website's source code up on github in a few days, I just need to learn PHP to make the website function as needed.
+Update: The site is complete, I now am working on hosting the site. The link + source code should be up soon.
 
 --------------
 
