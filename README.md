@@ -1,7 +1,7 @@
 # Geese Patrol
 --------------
 
-Update: The site is complete, I now am working on hosting the site. The link + source code should be up soon.
+Update: The site is complete, you can find it here: geesepatrol.comxa.com
 
 --------------
 
