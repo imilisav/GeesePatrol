@@ -116,9 +116,9 @@
         <ul>
             <?php
               //connecting to database
-              $servername = "mysql9.000webhost.com";
-              $username  = "a9379153_maximil";
-              $password = "beograd3";
+              $servername = "******";
+              $username  = "*******";
+              $password = "*******";
 
               class Report {
                 public $Id;
