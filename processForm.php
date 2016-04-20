@@ -1,8 +1,8 @@
 <?php
-  $servername = "mysql9.000webhost.com";
-  $username  = "a9379153_maximil";
-  $password = "beograd3";
-  $dbname = "a9379153_reports";
+  $servername = "*******";
+  $username  = "*******";
+  $password = "*******";
+  $dbname = "*******";
 
   $loc = $_POST['Location'];
   $desc = $_POST['comment'];
