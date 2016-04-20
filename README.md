@@ -1,7 +1,7 @@
 # Geese Patrol
 --------------
 
-Update: The site is complete, you can find it here: www.geesepatrol.comxa.com/geesePatrol.php
+Update: The site is complete, you can find it here: http://www.geesepatrol.comxa.com/geesePatrol/geesePatrol.php
 
 --------------
 
